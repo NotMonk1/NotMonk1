@@ -13,4 +13,4 @@
 - CR7T
 - A random fake anti (got bored)
 
- ***ADDING MORE TO THIS LATER***
+ ***ADDING MORE TO THIS LATER IM LAZY :/***
