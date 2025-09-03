@@ -1,4 +1,5 @@
 # Hi there im NotMonk 👋
+**PLEASE DONT HARRAS ME BECAUSE IM LEARNING CODE :/**
 
 ## ABOUT ME
 - Im dyslexic ☹️
