@@ -5,7 +5,7 @@
 
 ### ABOUT ME
 - Im dyslexic ☹️
-- Im learning to code
+- Scratch coder
 - I mod gtag
   
 ### STUFF I MADE :3
