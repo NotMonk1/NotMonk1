@@ -3,9 +3,12 @@
 # Hi there im NotMonk 👋
 
 ### ABOUT ME
-- Im dyslexic ☹️
-- Scratch coder
+- Im dyslexic
 - I mod gtag
+
+### CODES IN
+- Batch
+- Scratch
   
 ### STUFF I MADE :3
 - Project NMV (Founded)
