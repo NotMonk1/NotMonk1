@@ -9,6 +9,7 @@
 ### CODES IN
 - Batch
 - Scratch
+- Shell Script
   
 ### STUFF I MADE :3
 - Project NMV (Founded)
