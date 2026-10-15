@@ -4,14 +4,23 @@
 I made mod's and software for Gorilla Tag
 #
 
-Languages and Platforms:
+Currently Learning:
 
-<img width="461" height="90" alt="Languages_And_Apps-removebg-preview (6)" src="https://github.com/user-attachments/assets/51e68b52-0988-4bda-8f73-8c2d8cae5d47" />
+[![os](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+Languages and Platforms I Use:
+
+[![LanguagesAndPlatforms](https://skillicons.dev/icons?i=cs,python,html,discord,discordbots,github,visualstudio,vscode,unity,dotnet,blender)](https://skillicons.dev)
+
+OS' I've Used:
+
+[![os](https://skillicons.dev/icons?i=windows,mint,debian,ubuntu)](https://skillicons.dev)
+
+###### CURRENT: Windows
 
 Current Discord Acticity:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1345463716631679078?bg=4e1499&showDisplayName=true)](https://discord.com/users/1345463716631679078)
-###### also inspired by ZlothY
 #
 
 ### Links!
